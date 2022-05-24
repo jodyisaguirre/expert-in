@@ -3,7 +3,10 @@ To Clone: ![Screen Shot 2022-05-24 at 1 35 42 PM](https://user-images.githubuser
 Click the green code button 
 Select Https
 copy the https link
+
 paste the following  commands in your terminial window 
+
+
 1 git clone https://github.com/jodyisaguirre/expert-in.git
 
 change the directory to the one that was just cloned by placing the following command in the terminial
