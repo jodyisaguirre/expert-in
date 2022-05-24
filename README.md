@@ -10,6 +10,8 @@ paste the following  commands in your terminial window
 1 git clone https://github.com/jodyisaguirre/expert-in.git
 
 change the directory to the one that was just cloned by placing the following command in the terminial
+
+
 2 cd expert-in
 
 3 npm install 
